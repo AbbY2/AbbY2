@@ -1,0 +1,11 @@
+{
+  "type": "normal",
+  "fileName": "profile-hotrod.svg",
+  "backgroundColor": "#0A0708",
+  "foregroundColor": "#F6EFE7",
+  "strongColor": "#F4B63F",
+  "weakColor": "#7E6D68",
+  "radarColor": "#E0283C",
+  "growingAnimation": true,
+  "contribColors": ["#2A1418", "#6E0B14", "#B3121E", "#E0283C", "#F4B63F"]
+}
